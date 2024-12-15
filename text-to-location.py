@@ -9,11 +9,11 @@ from geopy.exc import GeocoderTimedOut, GeocoderUnavailable
 from geopy.geocoders import Nominatim
 
 
-from importlib.metadata import version
-
-packages = ["streamlit", "pandas", "numpy", "PyPDF2", "spacy", "certifi", "geopy"]
-for package in packages:
-    print(f"{package} version: {version(package)}")
+#from importlib.metadata import version
+#
+#packages = ["streamlit", "pandas", "numpy", "PyPDF2", "spacy", "certifi", "geopy"]
+#for package in packages:
+#    print(f"{package} version: {version(package)}")
 
 
 
