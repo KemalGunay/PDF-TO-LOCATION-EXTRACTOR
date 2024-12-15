@@ -73,7 +73,7 @@ Follow the steps below to run the project on your local machine:
 
 1. Run the Streamlit application:  
    ```bash
-   streamlit run app.py  
+   streamlit run text-to-location.py
    ```  
 
 2. Upload one or more PDF files through the interface.  
