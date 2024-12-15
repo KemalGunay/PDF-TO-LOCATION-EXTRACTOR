@@ -9,6 +9,15 @@ from geopy.exc import GeocoderTimedOut, GeocoderUnavailable
 from geopy.geocoders import Nominatim
 
 
+from importlib.metadata import version
+
+packages = ["streamlit", "pandas", "numpy", "PyPDF2", "spacy", "certifi", "geopy"]
+for package in packages:
+    print(f"{package} version: {version(package)}")
+
+
+
+
 # Custom SSL context to resolve certificate verification issues
 def create_ssl_context():
     ssl_context = ssl.create_default_context(cafile=certifi.where())

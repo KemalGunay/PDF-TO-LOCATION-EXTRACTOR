@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy
-PyPDF2
-spacy
-geopy
-certifi
+streamlit version: 1.41.0
+pandas version: 2.2.3
+numpy version: 2.0.2
+PyPDF2 version: 3.0.1
+spacy version: 3.8.2
+certifi version: 2023.7.22
+geopy version: 2.4.0
