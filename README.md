@@ -64,7 +64,7 @@ Follow the steps below to run the project on your local machine:
    ```  
 
 5. **Add the world cities dataset:**  
-   - Download a `worldcities.xlsx` file from [simplemaps.com](https://simplemaps.com/data/world-cities).  
+   - Download a `worldcities.xlsx` file in the repository  
    - Save it in the root directory of the project.  
 
 ---
@@ -89,7 +89,7 @@ Follow the steps below to run the project on your local machine:
 ```
 pdf-location-extractor/  
 │  
-├── app.py              # Main Streamlit app  
+├── text-to-location.py # Main Streamlit app  
 ├── requirements.txt    # Project dependencies  
 ├── worldcities.xlsx    # Dataset for city-country mapping  
 └── README.md           # Project documentation  
