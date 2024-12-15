@@ -6,8 +6,8 @@
 
 This project is a Python-based application built with **Streamlit** to extract geographical entities (cities and countries) from PDF documents and map their coordinates on an interactive world map.  
 
-![PDF Location Extractor Screenshot](/images/pic1.png)  
-![PDF Location Extractor Screenshot](/images/pic2.png)
+![PDF Location Extractor Screenshot](/images/picture1.png)  
+![PDF Location Extractor Screenshot](/images/picture2.png)
 *Example visualization of extracted locations*  
 
 
