@@ -1,8 +1,0 @@
-streamlit==1.25.0  # Ensure it's compatible with your version of Streamlit
-pandas==1.5.3      # For handling dataframes
-numpy==1.24.3      # For numerical operations
-PyPDF2==3.0.1      # For PDF parsing
-spacy==3.6.0       # For NLP and entity extraction
-geopy==2.4.0       # For geocoding
-certifi==2023.7.22 # To resolve SSL certificate issues
-openpyxl==3.1.2    # For reading Excel files

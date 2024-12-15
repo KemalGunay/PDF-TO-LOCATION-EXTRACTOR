@@ -89,8 +89,7 @@ Follow the steps below to run the project on your local machine:
 ```
 pdf-location-extractor/  
 │  
-├── text-to-location.py # Main Streamlit app  
-├── requirements.txt    # Project dependencies  
+├── text-to-location.py # Main Streamlit app   
 ├── worldcities.xlsx    # Dataset for city-country mapping  
 └── README.md           # Project documentation  
 ```  
